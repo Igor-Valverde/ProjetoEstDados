@@ -1,0 +1,4 @@
+[A PAGAR] Código: 1, Nome: agua, Vencimento: 2026-12-15, Valor: R$ 1000.0
+
+Total a Pagar: R$ 1000.0
+Total a Receber: R$ 0.0
